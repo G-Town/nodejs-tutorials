@@ -1,0 +1,5 @@
+20230719	16:12:53	7b470613-3b6d-44fb-8168-b0b18a48327a	Error: Not allowed by CORS
+20230719	16:12:53	83a33d6a-a759-4be1-97dd-6b48f05d56c5	Error: Not allowed by CORS
+20230723	16:10:37	ae3ffb0a-d7b1-48fa-9fcc-99274696f5df	TypeError: res.sendTatus is not a function
+20230726	14:37:14	0ac3edaa-7ee8-4965-8646-cf7c4318f377	TypeError: Cannot read properties of undefined (reading 'sendStatus')
+20230726	14:37:32	9e3f6054-c7c4-4885-8957-2413f95ee136	TypeError: Cannot read properties of undefined (reading 'sendStatus')
